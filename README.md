@@ -4,6 +4,8 @@
 
 [Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/4JFAWPYs)
 
+## how to install
+
 ### .env file
 
 ```
@@ -11,8 +13,6 @@ DATABASE=./data
 API_VERSION=v0.1
 API_KEY=
 ```
-
-## how to install
 
 ## how to use
 
